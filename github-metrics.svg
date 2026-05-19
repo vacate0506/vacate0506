@@ -31,8 +31,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -143,12 +143,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.9816875318912" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="343.9816875318912" y="0" width="98.34643072583198" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.3281182577232" y="0" width="9.096446722716834" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="451.42456498044" y="0" width="6.47880945987407" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="457.90337444031405" y="0" width="1.9997692073365816" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.9031436476506" y="0" width="0.09685635234929978" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.9660739246753" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="343.9660739246753" y="0" width="98.3628464740638" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.32892039873906" y="0" width="9.096033827637424" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="451.4249542263765" y="0" width="6.478515381468737" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="457.90346960784524" y="0" width="1.999678436193647" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.9031480440389" y="0" width="0.09685195596107109" height="8" fill="#4298b8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -198,7 +198,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>390 kB</div>
+                                <div>391 kB</div>
                                 <div>21.38%</div>
                             </small>
                         </div>
